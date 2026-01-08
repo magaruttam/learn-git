@@ -1,5 +1,5 @@
 #This is git and github
 
-'''Javascript 
+```Javascript 
 console.log("Hello World")
-'''
+```
